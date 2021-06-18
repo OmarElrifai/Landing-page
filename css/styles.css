@@ -41,7 +41,9 @@ h2 {
     font-size: 3em;
     color: #fff;
 }
-
+.item{
+    cursor: pointer;
+}
 p {
     line-height: 1.6em;
     color: #eee;
